@@ -1,2 +1,3 @@
 # loufek_pa01
-My name is Joshua and I have no idea what I'm doing yet
+
+This is Joshua Loufek's first Java Programming Assigment Submission
